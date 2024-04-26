@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    padding: 20px;
+    background-color: #000;
+}
+aside{
+    background-color: #2C2D32;
+}
+
+main{
+    margin-left: 20%;
+    
+}
+header{
+    width: 75vw;
+    height: 7vh;
+    border-radius: 10px;
+    background-color: #2C2D32;
+}
+.color{
+   color: white
+}
+.cards{
+   margin-top: 60px !important;
+}
